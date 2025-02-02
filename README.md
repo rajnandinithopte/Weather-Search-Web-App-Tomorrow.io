@@ -7,7 +7,8 @@
 ## 🔹Tech Stack
 
 **Frontend:** Angular, TypeScript, HTML, CSS, Bootstrap  
-**Backend:** Node.js, Express, MongoDB (Atlas), Google Cloud Platform (GCP)  
+**Backend:** Node.js, Express, MongoDB (Atlas), Google Cloud Platform (GCP) 
+
 **Libraries & Frameworks:**
 - **Angular Material** - UI components
 - **Bootstrap 5.3** - Responsive web design
@@ -33,7 +34,7 @@
    - Automatically fetches weather data based on the **user’s current location**.
    - Uses **IPinfo API** to determine location.
 
-### 2.**Search for Weather Details by City**
+### 2. **Search for Weather Details by City**
    - Implements a **search bar with autocomplete** powered by the Google Places API.
    - Fetches weather data via Tomorrow.io API **through a Node.js backend proxy**.
    - Displays search results dynamically **below the search form**.
