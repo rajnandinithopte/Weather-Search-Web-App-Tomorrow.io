@@ -84,4 +84,8 @@ Users can search for weather information within the **United States** using two 
 - The app will automatically detect your **latitude and longitude** using the **IPinfo API** (limited to USA).  
 - Click **Search**, and the weather information for your **current location** in the **USA** will be displayed.
 
+### 📌 Note
+The full source code for this project is **not publicly available**.  
+If you are interested in accessing the code, please feel free to **request it** by contacting me.
+
 ---
