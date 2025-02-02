@@ -80,8 +80,8 @@ Users can search for weather information within the **United States** using two 
    - Click **Search**, and the app will retrieve weather details for the selected location.
 
 2. **Use Current Location:**  
-   - Enable the **"Use My Current Location"** checkbox.  
-   - The app will automatically detect your **latitude and longitude** using the **IPinfo API** (limited to USA).  
-   - Click **Search**, and the weather information for your **current location** in the **USA** will be displayed.
+- Enable the **"Use My Current Location"** checkbox.  
+- The app will automatically detect your **latitude and longitude** using the **IPinfo API** (limited to USA).  
+- Click **Search**, and the weather information for your **current location** in the **USA** will be displayed.
 
 ---
